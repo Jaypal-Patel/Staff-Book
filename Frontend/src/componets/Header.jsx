@@ -45,7 +45,7 @@ const Header = () => {
               <CgProfile className="text-2xl cursor-pointer" />
             </div>
           ) : (
-            <button className="ml-4 bg-gradient-to-r from-[#5F57E0] to-[#8E179A] text-white px-5 py-2 rounded-full shadow hover:opacity-90 transition">
+            <button className="ml-4 bg-gradient-to-r from-[#5B5DE6] to-[#921294] text-white px-5 py-2 rounded-full shadow hover:opacity-90 transition">
               Sign up
             </button>
           )}
@@ -82,7 +82,7 @@ const Header = () => {
               <CgProfile className="text-2xl cursor-pointer" />
             </div>
           ) : (
-            <button className="mt-3 w-full bg-gradient-to-r from-[#5F57E0] to-[#8E179A] text-white py-2 rounded-full shadow hover:opacity-90 transition">
+            <button className="mt-3 w-full bg-gradient-to-r from-[#5B5DE6] to-[#921294] text-white py-2 rounded-full shadow hover:opacity-90 transition">
               Sign up
             </button>
           )}
